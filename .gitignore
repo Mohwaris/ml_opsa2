@@ -1,0 +1,8 @@
+#ignore data file
+*.csv
+*.txt
+#ignore model files
+*.pkl
+*.h5
+#ignore environment files
+.venv/
